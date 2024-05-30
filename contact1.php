@@ -28,7 +28,7 @@
 
                 <div class="cleaner"></div>
             </div>
-	       <p id="cont">For any queries please contact any of the following<ul style='font-size:17px;'><li>Pinak Saini<br>+91 8056954937<br>pinak@vit.ac.in</li><br><li>Divyansh Sharma<br>+91 8870878114<br>divyansh.sharma2012@vit.ac.in</li></ul></p>
+	       <p id="cont">For any queries please contact any of the following<ul style='font-size:17px;'><li>Pinak Saini<br>+91 9664088542<br>sethiyarhythm494@gmail.com</li><br></ul></p>
 
         </div>
 
