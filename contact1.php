@@ -28,7 +28,7 @@
 
                 <div class="cleaner"></div>
             </div>
-	       <p id="cont">For any queries please contact any of the following<ul style='font-size:17px;'><li>Pinak Saini<br>+91 9664088542<br>sethiyarhythm494@gmail.com</li><br></ul></p>
+	       <p id="cont">For any queries please contact any of the following<ul style='font-size:17px;'><li>Rhythm sethiya<br>+91 9664088542<br>sethiyarhythm494@gmail.com</li><br></ul></p>
 
         </div>
 
